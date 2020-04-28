@@ -1,1 +1,1 @@
-编辑一个readme.txt文件 上传到github仓库
+上班 git pull 下班git push
